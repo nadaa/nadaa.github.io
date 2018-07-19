@@ -3,7 +3,7 @@ layout: single
 title: RBK Journey
 categories: bootcamp
 date: '2018-06-24 13:31:00 +0300'
-published: false
+published: true
 ---
 The first thing I heard is, "an academic degree is not important". For me, I was just graduated with a master degree after four years of stress and days of reading dozens of papers.
 It was as simple as that.
