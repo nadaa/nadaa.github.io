@@ -1,14 +1,16 @@
 ---
 layout: single
-title:  "RBK Journey"
+title: RBK Journey
 categories: bootcamp
-date:   2018-06-24 13:31:00 +0300
+date: '2018-06-24 13:31:00 +0300'
+published: false
 ---
 The first thing I heard is, "an academic degree is not important". For me, I was just graduated with a master degree after four years of stress and days of reading dozens of papers.
- It was as simple as that.
+It was as simple as that.
 Graduation was not that easy for me, I put time and efforts to reach that moment. After getting the certificate, nothing changed in my life. I've started tracing new opportunities either study or job. The study is the only thing that captured my mind.
 
 One week after receiving my master, I realized that the reality is different than dreams and to survive I should convert knowledge in to actions and theories into touchable projects.
+
 University education can’t lead students to the market, particularly, in the Middle East. Thousands of graduated people cannot find a job, either because of limited industries or lack of skills needed. [Lili Mottaghi](http://blogs.worldbank.org/arabvoices/problem-unemployment-middle-east-and-north-africa-explained-three-charts) illustrated the unemployment problem in the Middle East and North Africa.
 I believe this gap deserves more efforts to build a healthy future.
 
@@ -24,7 +26,7 @@ I didn’t just got improved technically, RBK developed my self awareness, makin
 
 During the program, I had the chance to work with most of the students through pair programming or working on the same projects. This made me a good communicator and a team player. Adaptation is also another great merit, it makes me able to survive with various environments, people, and resources.
 
-It is worth to mention the equation one in RBK that Mr. [Hugh Bosely] (https://www.wise-qatar.org/hugh-bosely) always reminds us.
+It is worth to mention the equation one in RBK that Mr.[Hugh Bosely](https://www.wise-qatar.org/hugh-bosely) always reminds us.
 
 **GROWTH=STRESS+REST**            [Peak Performance](https://www.amazon.com/Peak-Performance-Elevate-Burnout-Science/dp/162336793X)
     
