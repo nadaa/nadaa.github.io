@@ -24,7 +24,7 @@ name                     : "Nada Ghanem"
 description              : "My tech and life journy"
 url                      : "https://nadaa.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : nadaa/nadaa.github.io #e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/p1.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
