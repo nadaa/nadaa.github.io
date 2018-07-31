@@ -342,7 +342,6 @@ Open the browser and check the app at localhost:8800, you should see the followi
 ![](https://i.imgur.com/e6jTn2I.png)
 
 
-
 Now, lets check if we can use the online version of the nadadocker/flaskapp, I am going to remove the current running container as well the local image from the cache.
 
 
