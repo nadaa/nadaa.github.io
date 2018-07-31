@@ -366,7 +366,7 @@ In case you make changes to the container, and you want to reflect the changes i
 
 
 Way to go, this was your first Docker container, I hope you find it useful. If not, please let me know how to improve it further.
-The next article will focus on configuring Dockerfile, working with multiple containers and networking. 
+The next article will focus on configuring Dockerfile, working with multiple containers, and networking. 
 
 
 
