@@ -1,9 +1,9 @@
-----------------------------------------
+---
 layout: single
 title:  "Docker Installation and Usage"
 categories: Cloud
 comments: true
-----------------------------------------
+---
 
 This article aims to give you the basic skills required to build Docker containers. A general understanding about Docker might be useful to connect concepts together. If you don't know what is Docker, please review [Docker intro](http://localhost:4000/cloud/into-docker/).
 
