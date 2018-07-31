@@ -1,9 +1,9 @@
---------------
+---
 layout: single
 title:  "Docker Installation and Usage"
 categories: Cloud
 comments: true
----------------
+---
 
 This article aims to give you the basic skills required to build Docker containers. A general understanding about Docker might be useful to connect concepts together. If you don't know what is Docker, please review [Docker intro](http://localhost:4000/cloud/into-docker/).
 
@@ -15,7 +15,7 @@ Suppose they have 3 services and they want to run each one on 5 nodes, which mea
 Developers also take advantage of working with containers, they can easily test their application while having all services work together using [CI](https://en.wikipedia.org/wiki/Continuous_integration). 
 
 
-**Table of Content**
+## Table of Content
 
 1. [Docker Components](#docker-component)
 1. [Docker installation](#docker-install)
@@ -197,9 +197,12 @@ Some critical questions you should be able to answer:
 - How to make the image we created availbale to the public?
 
 
-Docker images are constructed as layers, the first image is called the base image, such as a lightweight Linux system as [Alpine](https://alpinelinux.org/). When you create a new image, Docker file system only adds the changes as a new layer to the base image, and so on. 
-This is because images are read-only and at the same time this method reduces time and storage space. 
-Docker demonstrates this by using a special file system with [Copy-on-write technique](https://docs.docker.com/storage/storagedriver/).
+
+
+Docker images are constructed as layers, the first image is called the base image, such as a lightweight Linux system as [Alpine](https://alpinelinux.org/). 
+
+When you create a new image, Docker file system only adds the changes as a new layer to the base image, and so on. 
+This is because images are read-only and at the same time this method reduces time and storage space. Docker demonstrates this by using a special file system with [Copy-on-write technique](https://docs.docker.com/storage/storagedriver/).
 
 When you change the container, you actually add a new writable layer on the top of the image, your changes won't persist if you delete the container, in order to store the changes, you need to commit them and the change will be added into the image layered structure.
 The image below shows Docker file system.
