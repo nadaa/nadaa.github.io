@@ -3,6 +3,7 @@ layout: single
 title:  "Welcome to my blog!"
 categories: blogging, jekyll
 date:   2018-06-24 13:31:00 +0300
+author: nadaghanem
 ---
 This is my first post, it took me a long time to start blogging. It is not because I don't believe in its value, but because of lack of topics and tools.
 Simply, I don't know how to start blogging, I still don't know right now.

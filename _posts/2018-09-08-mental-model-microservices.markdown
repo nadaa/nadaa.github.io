@@ -3,6 +3,7 @@ layout: single
 title:  "A Mental Model of Microservices"
 categories: Cloud
 comments: true
+author: nadaghanem
 ---
 When you start designing a software, you either think of it as one big thing or as small connected things.
 System architects call the first approach as Monolithic, which is the traditional way to structure software. Microservices in the other hand decomposes the system as a group of services that are able to communicate with each other via APIs. Many companies nowadays consider transforming to Microservices, which might not be the best solution for all, but separating complex systems into smaller parts could resolve many problems.

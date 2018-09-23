@@ -3,6 +3,7 @@ layout: single
 title:  "The Ladder of Inference"
 categories: career
 date:   2018-06-24 13:31:00 +0300
+author: nadaghanem
 ---
 Our beliefs are a consequence of the conclusions we make, the conclusions come from what assumptions we create. We all have different thinking mechanism which distinguishes people from each other. You may find people living in the same environment, perceiving the same data, but each one has different perspectives.
 
