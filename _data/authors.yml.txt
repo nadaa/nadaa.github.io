@@ -1,0 +1,6 @@
+---
+nadaghanem:
+  name: Nada Ghanem
+  email: nada.saif7@gmail.com
+  web: http://nadaa.github.io
+  image: https://nadaa.github.io/assets/images/bio-photo.jpg
