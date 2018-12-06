@@ -2,6 +2,7 @@
 layout: single
 title: Nada Ghanem
 permalink: /resume/
+published: true
 ---
 
 A software Engineer. A believer in simplicity and teamwork with a passion in building software that scale, web technology, and agile methodology.
@@ -29,6 +30,7 @@ A software Engineer. A believer in simplicity and teamwork with a passion in bui
 
 | Work Experience|
 |-------|---------|
+|Sep2018-Now| Virtual Intern at Open Learning Exchange(https://www.ole.org/): work on Educational App using Angular, couhDB, vagrant, Docker|
 |2007-2014| Teaching assistant, taught courses: Programming fundamentals, Computer Network,System Analysis at Hodeidah University, Yemen|
 |2007- 2013|MYTecC coordinator & Instructor, Lead a group of students aged(14-16) for after school activities to foster their knowledge in technology, social, and communication skills|
 |2007- 2010|MYTecC technician, Provide technical support for MYTecC instructors|  
