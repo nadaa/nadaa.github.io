@@ -7,6 +7,18 @@ history,
 
 Cretieria for a good web framework
 
+- learnibility (how fast to learn)
+  Active dev commuinty (releases) support, good documentation and continous upgrading
+
+- openionated vs. unopenioated 
+
+- http request handling
+- security
+- scalability
+- caching support
+
+
+
 
 Resources
 https://symfony.com/ten-criteria
