@@ -1,9 +1,10 @@
 ---
 layout: single
-title:  "Why Django"
+title: Why Django
 categories: backend
 comments: true
 author: nadaghanem
+published: true
 ---
 
 Good technology is created to survive. You can always evaluate if the technology is successful by measuring how popular it is. This evaluation shouldn't be a win-lose process, each technology has pros and cons, and each has a strength in a specific area.
@@ -24,5 +25,7 @@ Below are the criteria that make Django attractive web framework
 
 
 ### Resources
+https://docs.djangoproject.com/en/2.1/
 https://symfony.com/ten-criteria
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks
+
