@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Why Django
-categories: backend
+categories: web development
 comments: true
 author: nadaghanem
 published: true
