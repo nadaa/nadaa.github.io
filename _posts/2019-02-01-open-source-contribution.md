@@ -16,6 +16,9 @@ Outreachy program runs twice a year and all information about projects, mentors,
 I applied two times with no acceptance. The first in 2017 I contributed to [ODK] (https://opendatakit.org/) by enhancing the documentation using tools such as python, sphinx.
 The second attemp is in 2018 by getting involved in [Mozilla] (https://www.mozilla.org/en-US/) repository called Active data recipes using python.
 
+After sending a couple of pull requests, I heared about [hacktoberfest] (https://hacktoberfest.digitalocean.com/), an initiative by Digitalocean to support contribution to open source. You can get a nice t-shirt with some nice stickers yo can put on laptop. Any one can apply to hacktoberfest yearly by October, you only need to have send some pull requests to any open source projects. Today, I received mine :).
+
+![](https://i.imgur.com/UdGQTOc.jpg)
 
 ## Useful sites
 
