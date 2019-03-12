@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Software life cycle"
+title:  "Software Lifecycle"
 categories: software development
 author: nadaghanem
 ---
