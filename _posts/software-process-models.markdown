@@ -1,7 +1,8 @@
 ---
 layout: single
 title:  "Software Development lifecycle!"
-categories: software development, jekyll
+categories: software development
+date:
 author: nadaghanem
 ---
 
