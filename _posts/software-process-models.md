@@ -3,70 +3,73 @@ published: false
 ---
 ## Software Process Models/ life cicle
 
-The steps used to construct a useable and high quality software
+I am using this post to summerize my thoughts on Software development course from Udacity. This are notes of lessons(1 & 2).
 
-"BARRy Bohem"
-sequence of decision you made determine the history of your software
-systematic approach that uses different tools
-questions to ask what to do next and how long it take
-it is important to know which model is proper for a particular situation
-small projects work with agile, large projects need rigorous approaches
-The process of choosing the model is flexiable, you may choose one model for a part in the project while choosing another model for another part.
+Software development is a very complex process which combines various skills such as management, estimation, design solution, coding, testing, optimization, maintenance,..etc.
+Good software that is built to sustain and to be used.
+**Barry Bohem** defines the software development process as
+"A sequence of decision you made determine the history of your software
+A systematic approach that uses different tools
+Questions to ask what to do next and how long it take
+It is important to know which model is proper for a particular situation
+Small projects work with agile, large projects need rigorous approaches
+The process of choosing the model is flexible, you may choose one model for a part in the project while choosing another model for another part."
+
 
 
 ### Traditional software engineer phases
 
-- Requirements engineer (early error discovery save effforts and money)
-		requirements elecitation
-        requirements analysis
-        specification
-        requirements validation
-        management
+- Requirements engineer (early error discovery)
+	- Requirements elecitation
+    - Requirements analysis
+    - Specification
+    - Requirements validation
+    - Management
         
 - Design (high to low level)
-	architecture design
-    abstruct specification
-    interface design
-    component design
-    data structure
-    algo design
+	- Architecture design
+    - Abstruct specification
+    - Interface design
+    - Component design
+    - Data structure
+    - Algorithm design
     
-- implementation
-   reduction of complixity
-   anticipation of diversity
-   structuring for validation
-   use of external standards
+- Implementation
+   - Reduction of complixity
+   - Anticipation of diversity
+   - Structuring for validation
+   - Use of external standards
    
    
-- verification & validation
-	unit test
-    integeration test
-    system test
+- Verification & validation
+	- Unit test
+    - Integeration test
+    - System test
     
-- maintenance (bug report, feature request, environmental change)
-	 -corrective maintenance
+- Maintenance (bug report, feature request, environmental change)
+	 - corrective maintenance
      - perfective maintenance
      - adaptive maintenance
      
-     complex because of regression test
+ Maintenance is complex because of the regression test which is a test that runs with any change made to assure the software remains applicable all the time.
      
-     
+    
 
-Models
+**Models**
 
-1) Waterfall
+**1) Waterfall**
 Sequentail steps of starting and ending the software development process, in that a step can't be initiated unless the previous one finished. Developed by W. W. Royce
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/525px-Waterfall_model.svg.png)
 
-pross:
+**pross**:
 - detecting errors early
 
-cons:
- not flexible
- expensive change later
+**cons**:
+- not flexible
+- expensive change later
  
 
-2) Spiral
+**2) Spiral**
 increamental risk oriented model that exeutes four main phases 
 - Determine objectives
 - I denify and resolve risks
@@ -84,7 +87,7 @@ early software production
 **cons**
 - require highly specific expertise for risk analysis
 
-3) Evoultionary Prototyping Process
+**3) Evoultionary Prototyping Process**
  An iterative model involves building system prototype based on customer requirements. It includes four main phases 
  - initial concept
  - Design and implement prototype
@@ -99,8 +102,7 @@ early software production
  **cons**
  - diffecult to plan in advance
 
-
-4) Rational Unified Process (RUP)
+**4) Rational Unified Process (RUP)**
 An iterative common software model.
 containd four phases:
 - Inception
@@ -118,7 +120,7 @@ containd four phases:
 - complex to develop
 - requires expertise
 
-5) Agile TDD( red, Green, refactor)
+**5) Agile TDD( red, Green, refactor)**
 Highy incremental development. Test the code before writing the code
 - Fail (Red phase)
 - Green Phase (Write code(make the test pass))
@@ -142,7 +144,7 @@ Depends on :
 - Expertise
 
 
-examples
+**Examples**
 - Software control systems: Pure waterfall
 Domain is well understood
 No customer interaction
@@ -157,4 +159,3 @@ Spiral or Evolutionary prototyping
 
 [] (https://www.testingexcellence.com/iterative-incremental-development-agile/)
 [Software Development process-udacity](https://www.udacity.com/course/software-development-process--ud805)
-
