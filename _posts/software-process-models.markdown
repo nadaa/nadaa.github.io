@@ -1,9 +1,10 @@
 ---
 layout: single
-title:  "Software Development lifecycle!"
+title: 2019-03-12-software-lifecycle.markdown
 categories: software development
-date:
+date: null
 author: nadaghanem
+published: true
 ---
 
 ## Software Process Models/ life cicle
