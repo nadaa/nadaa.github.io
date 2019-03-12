@@ -1,6 +1,10 @@
 ---
-published: false
+layout: single
+title:  "Software Development lifecycle!"
+categories: software development, jekyll
+author: nadaghanem
 ---
+
 ## Software Process Models/ life cicle
 
 I am using this post to summerize my thoughts on Software development course from Udacity. This are notes of lessons(1 & 2).
