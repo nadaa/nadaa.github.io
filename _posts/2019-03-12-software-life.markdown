@@ -1,5 +1,8 @@
 ---
-published: false
+layout: single
+title:  "Software life cycle"
+categories: software development
+author: nadaghanem
 ---
 
 ## Software Process Models/ life cicle
