@@ -43,7 +43,6 @@ ask turtles[
   set-nest
 end
 
-
 to go
 if not any? patches with [pcolor = green] [stop] ;; stop the simulation when no food ends
 ask turtles[ ;; ants either eat or return to the nest after eating
@@ -55,19 +54,16 @@ ask turtles[ ;; ants either eat or return to the nest after eating
   tick
 end
 
-
 to food-search
   let phermone-ahead? scent-at-angle 0
   let phermone-right? scent-at-angle 45
   let phermone-left? scent-at-angle -45
-
   ifelse phermone-right? > phermone-ahead? or phermone-left? > phermone-ahead?
   [ifelse phermone-right? > phermone-left?
     [rt 45]
     [lt 45]
   ]
-
-  [ if phermone-ahead? = 0 [
+  [fd 1 ]
   ifelse flip-coin? = true [rt random max-turn-angle] [lt random max-turn-angle]
   fd random max-step-size
   if pcolor = green
@@ -77,8 +73,6 @@ to food-search
     ;; ant should return to nest after launch
     set return-to-nest? true
     ]
-  ]
- ]
 end
 
 ;; ants should resturn to the nest after they get their food, this process is controlled using 
