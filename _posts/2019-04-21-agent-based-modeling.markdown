@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: single
 title:  "Agent Based Modeling"
 categories: modeling
