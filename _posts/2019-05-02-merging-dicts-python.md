@@ -24,14 +24,13 @@ for k,v in dict2:
 dict3 = {k:v for d in [dict1,dict2] for k,v in d}
 ```
 
-
 ### Method 3
 ```
 dict3 = dict1.copy()
 dict3.update(dict2)
 ```
 
-### Method 3 (unpackng, only works in 3.5+)
+### Method 4(unpackng, only works in 3.5+)
 ```
 dict3 = {**dict1, **dict2}
 ```
