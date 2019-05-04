@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Nada Ghanem"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "A full stack software engineering. Passionate to learn , teach, and relax :)"
-  location         : "Somewhere"
+  bio              : "Software engineer. Lifelong Learner, teacher, meditator"
+  location         : "The universe"
   email            : nada.saif7@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
