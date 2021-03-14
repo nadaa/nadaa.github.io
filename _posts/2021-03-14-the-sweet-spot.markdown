@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Many of us might imagine being a talent in any skill. When I was a kid I dreamt to be a scientist such as ُEinstine whenI study physics or like Alkhawrizmi when I study math. I could make myself anyone in history who did great for humanity. I remember one of my math teachers held my hands and told me that I will be a great scientist in the future. Thinking of this make me happy and motivates me to seek knowledge more and more. I haven't felt that I am a scientist although I am a doctorate student now. Still, a voice comes from inside reminding me that I can be whatever I want despite the years. 
 
@@ -10,4 +10,3 @@ Coyle uses examples as evidence for his arguments, for examples, he illustrates 
 ![The talent code](https://images-na.ssl-images-amazon.com/images/I/41A1Ed5UwzL._SX323_BO1,204,203,200_.jpg)
 
 I agree with Coyle about the role of practice to develop talent, but it is still unclear how to find the sweet spot without the dimotivation. I believe human been respond differently to failure, some for example might become dissappointed when things go wrongly. Others might love to be challenged and try again if they fail. Another missunderstanding to the deep practice is how to it is different than repitation. You may keep repeating for many times without success. Also does deep practice requires a professional trainer or someone with experience, what about persoanl training. Another question came to me is the possibility to apply the deep practice for self-based learning. ##
-
